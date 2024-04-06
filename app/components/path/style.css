@@ -1,0 +1,14 @@
+.ant-breadcrumb ol li a{
+    font-weight: 400;
+}
+.white-bread ol li a{
+    color: white;
+
+}
+.white-bread ol li a:hover{
+    color: rgb(231, 231, 231);
+    
+}
+.white-bread .ant-breadcrumb-separator{
+    color: white !important;
+}

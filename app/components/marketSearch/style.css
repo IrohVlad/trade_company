@@ -1,0 +1,22 @@
+.market-search .ant-input-group-addon{
+    border-radius: 10px !important;
+    overflow: hidden;
+}
+.market-search .ant-input{
+    border-right: none;
+    height: 36px;
+    box-shadow: none;
+}
+.market-search button{
+    height: 36px !important;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 14px;
+    font-weight: 500;
+
+}
+.market-search .ant-input-group-addon{
+    background-color: #AB3534;
+    transform: translateX(-6px);
+    z-index: 4;
+}

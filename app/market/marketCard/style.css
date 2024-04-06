@@ -1,0 +1,10 @@
+.product-card:hover .product-img::after{
+    transform-origin: background-color;
+    transition-duration: .3s;
+    background-color: #00000020;
+}
+.product-card:hover .product-img img{
+    transform-origin: transform;
+    transition-duration: .3s;
+    transform: scale(1.1);
+}

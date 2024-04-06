@@ -1,0 +1,19 @@
+label::before{
+    content: '' !important;
+}
+.ant-select{
+    border-radius: 5px !important;
+}
+.ant-select-selector{
+    background-color: #F4F4F4 !important;
+    border-radius: 5px !important;
+    box-shadow: none !important;
+}
+.ant-checkbox .ant-checkbox-inner {
+    height: 16px !important;
+    width: 16px !important;
+}
+.ant-checkbox .ant-checkbox-inner::after{
+    height: 10px;
+    width: 5px;
+}

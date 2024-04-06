@@ -1,0 +1,28 @@
+.sh-form .ant-select-selector{
+    border-left: none !important;
+    border-right: none !important;
+    border-top: none !important;
+    box-shadow: none !important;
+  }
+/* .ant-form-item:not(:last-child) .ant-form-item-control{
+    margin-bottom: 40px;
+} */
+.sh-form .ant-checkbox .ant-checkbox-inner {
+    height: 28px;
+    width: 28px;
+}
+.sh-form .ant-checkbox .ant-checkbox-inner::after{
+    height: 15px;
+    width: 10px;
+}
+.sh-form .ant-checkbox-wrapper{
+    align-items: center;
+}
+/* .ant-checkbox span {
+    height: 28px;
+    width: 28px;
+}
+.ant-checkbox span input{
+    height: 28px;
+    width: 28px;
+} */
